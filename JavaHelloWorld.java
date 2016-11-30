@@ -8,6 +8,7 @@ public class JavaHelloWorld
 	   System.out.println("hello forth time for Jenkins");
 	   System.out.println("hello fifth time for WebhookServer and Jenkins");
            System.out.println("hello sixth time for WebhookServer and Jenkins");
+           System.out.println("hello seveth time for branch PullRequest");
 	}
 }
 
