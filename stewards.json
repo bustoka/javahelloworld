@@ -1,5 +1,5 @@
 {
-  "description": "blahblah instructions for what this is used for blah"
+  "description": "blahblah instructions for what this is used for blah",
   "notifications": [
     {
       "regex": "\\.java",
