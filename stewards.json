@@ -1,0 +1,15 @@
+{
+  "description": "blahblah instructions for what this is used for blah"
+  "notifications": [
+    {
+      "regex": "\\.java",
+      "stewards": ["bustoka", "rst-github-bot"],
+      "comments": "matches anything that contains dot-java (or all java files)"
+    },
+    {
+      "regex": ".*fixtures.*",
+      "stewards": ["bustoka"],
+      "comments": "matches any file path that has the word <<fixtures>> anywhere in it"
+    }         
+  ]
+}
